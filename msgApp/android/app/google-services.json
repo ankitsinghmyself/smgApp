@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "411240634847",
+    "project_id": "smgapp-82997",
+    "storage_bucket": "smgapp-82997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411240634847:android:44bb90fe16b00bfe288c6a",
+        "android_client_info": {
+          "package_name": "com.msgapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411240634847-g3crdcgp7l7tonq3cufhl1st5uqfv3uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuH1m_HMhzpx2ilrbNcZcEQ_YR--E0qdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411240634847-g3crdcgp7l7tonq3cufhl1st5uqfv3uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
